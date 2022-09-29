@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleWithParameter", "CycleWithParameter.csproj", "{70CAE842-DD6D-44E6-AB0E-32C87E46FA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CAE842-DD6D-44E6-AB0E-32C87E46FA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CAE842-DD6D-44E6-AB0E-32C87E46FA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CAE842-DD6D-44E6-AB0E-32C87E46FA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CAE842-DD6D-44E6-AB0E-32C87E46FA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F69AAEC-98B8-4B5D-86F5-546C731112FF}
+	EndGlobalSection
+EndGlobal
