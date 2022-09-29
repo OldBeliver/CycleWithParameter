@@ -7,10 +7,10 @@ namespace CycleWithParameter
         static void Main(string[] args)
         {
             int startPoint = 5;
-            int endPoint = 100;
+            int endPoint = 96;
             int step = 7;
 
-            for (int i = startPoint; i < endPoint; i+=step)
+            for (int i = startPoint; i <= endPoint; i+=step)
             {
                 Console.Write($"{i} ");
             }
